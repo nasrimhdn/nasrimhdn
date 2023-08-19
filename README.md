@@ -20,6 +20,7 @@
 ![socketdotio](https://img.shields.io/badge/-socketdotio-%23282C34?style=flat-square&logo=socketdotio)
 ![json](https://img.shields.io/badge/-json-%23282C34?style=flat-square&logo=json)
 ![jsonwebtokens](https://img.shields.io/badge/-jsonwebtokens-%23282C34?style=flat-square&logo=jsonwebtokens)
+![stripe](https://img.shields.io/badge/-stripe-%23282C34?style=flat-square&logo=stripe)
 ![firebase](https://img.shields.io/badge/-firebase-%23282C34?style=flat-square&logo=firebase)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
