@@ -1,7 +1,7 @@
 <div align="center">
 <img width="35%" align="center" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 </div>
-<h1 align="center"> Hello, I'm Mohammad Nasri 👋 </h1>
+<h1 align="center"> Hello, I'm Mohammad Nasri </h1>
 <h3 align="center">🚀 full-stack developer 🚀</h3>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
